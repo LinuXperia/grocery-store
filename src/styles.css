@@ -8,9 +8,8 @@
      border-radius: 0px;
  }
 
-iframe
-{
-    display: none;
+body > iframe {
+  display: none !important;
 }
  
  /* cart badge */
