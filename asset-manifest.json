@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Amitabh-K.github.io/grocery-store/static/css/main.1878b47c.chunk.css",
-    "main.js": "/Amitabh-K.github.io/grocery-store/static/js/main.6f642307.chunk.js",
-    "main.js.map": "/Amitabh-K.github.io/grocery-store/static/js/main.6f642307.chunk.js.map",
-    "runtime~main.js": "/Amitabh-K.github.io/grocery-store/static/js/runtime~main.b04b1c45.js",
-    "runtime~main.js.map": "/Amitabh-K.github.io/grocery-store/static/js/runtime~main.b04b1c45.js.map",
-    "static/js/2.ba4c832e.chunk.js": "/Amitabh-K.github.io/grocery-store/static/js/2.ba4c832e.chunk.js",
-    "static/js/2.ba4c832e.chunk.js.map": "/Amitabh-K.github.io/grocery-store/static/js/2.ba4c832e.chunk.js.map",
-    "index.html": "/Amitabh-K.github.io/grocery-store/index.html",
-    "precache-manifest.5cdfcb9005a7f1a4fa30f2c6cf9190d9.js": "/Amitabh-K.github.io/grocery-store/precache-manifest.5cdfcb9005a7f1a4fa30f2c6cf9190d9.js",
-    "service-worker.js": "/Amitabh-K.github.io/grocery-store/service-worker.js",
-    "static/css/main.1878b47c.chunk.css.map": "/Amitabh-K.github.io/grocery-store/static/css/main.1878b47c.chunk.css.map",
-    "static/media/logo1.JPG": "/Amitabh-K.github.io/grocery-store/static/media/logo1.2121bb97.JPG"
+    "main.css": "/grocery-store/static/css/main.1878b47c.chunk.css",
+    "main.js": "/grocery-store/static/js/main.6f642307.chunk.js",
+    "main.js.map": "/grocery-store/static/js/main.6f642307.chunk.js.map",
+    "runtime~main.js": "/grocery-store/static/js/runtime~main.9ffd8a12.js",
+    "runtime~main.js.map": "/grocery-store/static/js/runtime~main.9ffd8a12.js.map",
+    "static/js/2.ba4c832e.chunk.js": "/grocery-store/static/js/2.ba4c832e.chunk.js",
+    "static/js/2.ba4c832e.chunk.js.map": "/grocery-store/static/js/2.ba4c832e.chunk.js.map",
+    "index.html": "/grocery-store/index.html",
+    "precache-manifest.2be50fd578d4cf26c98a5d96b535535c.js": "/grocery-store/precache-manifest.2be50fd578d4cf26c98a5d96b535535c.js",
+    "service-worker.js": "/grocery-store/service-worker.js",
+    "static/css/main.1878b47c.chunk.css.map": "/grocery-store/static/css/main.1878b47c.chunk.css.map",
+    "static/media/logo1.JPG": "/grocery-store/static/media/logo1.2121bb97.JPG"
   }
 }
