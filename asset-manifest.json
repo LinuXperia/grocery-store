@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Amitabh-K.github.io/grocery-store/static/css/main.1878b47c.chunk.css",
-    "main.js": "/Amitabh-K.github.io/grocery-store/static/js/main.40776ecc.chunk.js",
-    "main.js.map": "/Amitabh-K.github.io/grocery-store/static/js/main.40776ecc.chunk.js.map",
-    "runtime~main.js": "/Amitabh-K.github.io/grocery-store/static/js/runtime~main.b04b1c45.js",
-    "runtime~main.js.map": "/Amitabh-K.github.io/grocery-store/static/js/runtime~main.b04b1c45.js.map",
-    "static/js/2.2f1f2a43.chunk.js": "/Amitabh-K.github.io/grocery-store/static/js/2.2f1f2a43.chunk.js",
-    "static/js/2.2f1f2a43.chunk.js.map": "/Amitabh-K.github.io/grocery-store/static/js/2.2f1f2a43.chunk.js.map",
-    "index.html": "/Amitabh-K.github.io/grocery-store/index.html",
-    "precache-manifest.0bfd174c0bedb3a9e1256324f6c60352.js": "/Amitabh-K.github.io/grocery-store/precache-manifest.0bfd174c0bedb3a9e1256324f6c60352.js",
-    "service-worker.js": "/Amitabh-K.github.io/grocery-store/service-worker.js",
-    "static/css/main.1878b47c.chunk.css.map": "/Amitabh-K.github.io/grocery-store/static/css/main.1878b47c.chunk.css.map",
-    "static/media/logo1.JPG": "/Amitabh-K.github.io/grocery-store/static/media/logo1.2121bb97.JPG"
+    "main.css": "/static/css/main.1878b47c.chunk.css",
+    "main.js": "/static/js/main.1f0b3e07.chunk.js",
+    "main.js.map": "/static/js/main.1f0b3e07.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.2f1f2a43.chunk.js": "/static/js/2.2f1f2a43.chunk.js",
+    "static/js/2.2f1f2a43.chunk.js.map": "/static/js/2.2f1f2a43.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.58da62112e2703783ece6f2b39d5a2e3.js": "/precache-manifest.58da62112e2703783ece6f2b39d5a2e3.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.1878b47c.chunk.css.map": "/static/css/main.1878b47c.chunk.css.map",
+    "static/media/logo1.JPG": "/static/media/logo1.2121bb97.JPG"
   }
 }
