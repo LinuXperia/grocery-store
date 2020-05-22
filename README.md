@@ -3,6 +3,8 @@
 # Deployed on Heroku
 Live site found here: https://amitabh-ecom.herokuapp.com/
 
+### API for Grocery Store @ https://github.com/Amitabh-K/server
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
