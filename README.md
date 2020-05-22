@@ -1,3 +1,9 @@
+[![HitCount](http://hits.dwyl.com/Amitabh-K/grocery-store.svg)](http://hits.dwyl.com/Amitabh-K/grocery-store)
+
+
+Live site found here: www.amitabhkumar.com
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
