@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c421e4854bffae1c95d44e6b6fd034b2",
+    "revision": "798e5c1d3453b598a2f072c9b7ceeb2d",
     "url": "/Amitabh-K.github.io/grocery-store/index.html"
   },
   {
-    "revision": "09fbae1aed15d72aa5ba",
+    "revision": "5a8bd67632e1d7c338f3",
     "url": "/Amitabh-K.github.io/grocery-store/static/css/main.1878b47c.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Amitabh-K.github.io/grocery-store/static/js/2.2f1f2a43.chunk.js"
   },
   {
-    "revision": "09fbae1aed15d72aa5ba",
-    "url": "/Amitabh-K.github.io/grocery-store/static/js/main.958a6510.chunk.js"
+    "revision": "5a8bd67632e1d7c338f3",
+    "url": "/Amitabh-K.github.io/grocery-store/static/js/main.d549c1bf.chunk.js"
   },
   {
     "revision": "d4dcb1a2e6fc110e1048",
